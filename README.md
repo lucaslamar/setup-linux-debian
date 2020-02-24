@@ -18,7 +18,7 @@
     <li> <a href="https://yarnpkg.com/en/docs/getting-started">Yarn</a> </li>
     <li> <a href="https://github.com/infinitered/reactotron">Reactotron</a> </li>
     <li> <a href="https://discordapp.com/">Discord</a> </li>
-    <li>Snapd
+    <li><a href="https://snapcraft.io/store"> Snapd </a>
       <ul>
       <li> <a href="https://www.docker.com/get-started"> Docker </a> </li>    
       <li> <a href="https://support.insomnia.rest/article/23-installation#ubuntu">Insomnia</a> </li>    
