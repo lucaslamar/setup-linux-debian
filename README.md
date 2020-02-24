@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img alt="Gympoint" title="Gympoint" src="https://github.com/lucaslamar/gym-point-api/blob/master/src/img/gympoint_logo.png" width="200px" />
+  <img alt="Logo" title="Logo" src="img/linux.png" width="200px" />
 </h1>
 
 # setup-linux-debian
@@ -12,6 +12,7 @@
     <li>Vim</li>
     <li>Curl</li>
     <li> <a href="https://git-scm.com/download/linux"> Git </a></li>
+    <li> <a href="https://code.visualstudio.com/"> Vscode </a></li>
     <li> <a href="https://www.deepin.org/pt/original/deepin-screenshot/">Deepin Screenshot</a></li>
     <li> <a href="https://github.com/nvm-sh/nvm"> Nvm </a></li>
     <li> <a href="https://yarnpkg.com/en/docs/getting-started">Yarn</a> </li>
