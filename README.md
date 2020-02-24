@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img alt="Logo" title="Logo" src="img/linux.png" width="200px" />
+  <img alt="Logo" title="Logo " src="img/linux.png" width="200px" />
 </h1>
 
 # setup-linux-debian
@@ -39,7 +39,7 @@
 
 
 
-## Extenxões Vscode 
+## Extensões Vscode 
 <ul>
   <li>Color Highlight</li>
   <li>Docker</li>
@@ -57,9 +57,9 @@
 </ul>
 
 
-## Exutando Script
+## Executando Script
 
 Depois de clonar repositorio e entrar na pasta
 
-- Run **`chmod +x ./script.sh`**;
-- Run **`./script.sh`**;
+- Run **`chmod +x ./install.sh`**;
+- Run **`./install.sh`**;
