@@ -1,4 +1,3 @@
-instala Programas essenciais para desenvolvimento linux 
 
 <h1 align="center">
   <img alt="Gympoint" title="Gympoint" src="https://github.com/lucaslamar/gym-point-api/blob/master/src/img/gympoint_logo.png" width="200px" />
@@ -10,24 +9,24 @@ instala Programas essenciais para desenvolvimento linux
  ## Programas instalados via Script
 
 <ul>
-    <li> <a href="https://git-scm.com/download/linux"> Git </a></li>
     <li>Vim</li>
     <li>Curl</li>
-    <li> <a href="https://www.deepin.org/pt/original/deepin-screenshot/">Deepin Screenshot</li>
+    <li> <a href="https://git-scm.com/download/linux"> Git </a></li>
+    <li> <a href="https://www.deepin.org/pt/original/deepin-screenshot/">Deepin Screenshot</a></li>
+    <li> <a href="https://github.com/nvm-sh/nvm"> Nvm </a></li>
+    <li> <a href="https://yarnpkg.com/en/docs/getting-started">Yarn</a> </li>
+    <li> <a href="https://github.com/infinitered/reactotron">Reactotron</a> </li>
+    <li> <a href="https://discordapp.com/">Discord</a> </li>
     <li>Snapd
       <ul>
       <li> <a href="https://www.docker.com/get-started"> Docker </a> </li>    
       <li> <a href="https://support.insomnia.rest/article/23-installation#ubuntu">Insomnia</a> </li>    
       <li> <a href="https://www.electronjs.org/apps/postbird"> Postbird </a> </li>    
-      <li> <a href="https://www.docker.com/get-started"> Docker </a> </li>    
       <li> <a href="https://www.spotify.com/br/download/linux/"> Spotify </a> </li>    
       <li> <a href="https://slack.com/intl/pt-br/downloads/linux"> Slack </a> </li>    
     </ul>
     </li>
-    <li> <a href="https://github.com/nvm-sh/nvm"> Nvm </a></li>
-    <li> <a href="https://yarnpkg.com/en/docs/getting-started">Yarn</a> </li>
-    <li> <a href="https://github.com/infinitered/reactotron">Reactotron</a> </li>
-    <li> <a href="https://discordapp.com/">Discord</a> </li>
+
 </ul>
 
  ## Talvez você goste (NÃO ESTÁ NO SCRIPT)
