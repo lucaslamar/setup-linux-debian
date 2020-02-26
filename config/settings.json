@@ -1,4 +1,6 @@
 // Configurações Visual Studio code
+// Direitos de : https://gist.github.com/diego3g/b1b189063d21b96d6144ca896755be64
+// video youtube: https://youtu.be/c7P03kkrEG8?list=PLxyaRY5rVDKbVLQekkvhzQeEcBmP7zaCA
 {
   // Define o tema do VSCode
   "workbench.colorTheme": "Dracula",
