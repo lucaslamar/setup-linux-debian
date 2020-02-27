@@ -21,8 +21,8 @@ sudo apt install snapd -y
 #instalando o vim
 sudo apt install vim -y
 
-#instalando o deepin-screenshot
-sudo apt install deepin-screenshot -y
+#instalando o flameshot
+sudo apt install flameshot -y
 
 #instalando o Discord
 cd ~/Downloads
