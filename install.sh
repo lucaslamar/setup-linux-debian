@@ -76,6 +76,11 @@ sudo apt install numix-icon-theme-circle -y
 cd Canta-theme/
 ./install.sh -i
 
+#instalando o Peek
+sudo add-apt-repository ppa:peek-developers/stable -y
+sudo apt update
+sudo apt install peek
+
 #instalando o docker
 sudo snap install docker
 sudo snap enable docker
