@@ -87,9 +87,8 @@ sudo dpkg -i dbeaver-ce_6.0.0_amd64.deb
 sudo apt-get install -f
 
 #instalando o docker
-sudo snap install docker
-sudo snap enable docker
-sudo groupadd docker
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh get-docker.sh
 sudo usermod -aG docker $USER
 
 #atualizando todos os pacotes
