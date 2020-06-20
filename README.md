@@ -16,6 +16,8 @@
     <li> <a href="https://git-scm.com/download/linux"> Git </a></li>
     <li> <a href="https://code.visualstudio.com/"> Vscode </a></li>
     <li> <a href="https://flameshot.js.org/#/">Flameshot</a></li>
+    <li> <a href="https://www.docker.com/get-started"> Docker </a> </li>
+  <li> <a href="https://dbeaver.io/">DBeaver</a></li>
     <li> <a href="https://github.com/nvm-sh/nvm"> Nvm </a></li>
     <li> <a href="https://yarnpkg.com/en/docs/getting-started">Yarn</a> </li>
     <li> <a href="https://github.com/infinitered/reactotron">Reactotron</a> </li>
@@ -23,8 +25,7 @@
     <li> <a href="https://github.com/phw/peek">Peek</a> </li>
      <li> <a href="https://github.com/vinceliuice/Canta-theme/">Canta Theme </a> </li>
     <li><a href="https://snapcraft.io/store"> Snapd </a>
-      <ul>
-      <li> <a href="https://www.docker.com/get-started"> Docker </a> </li>    
+      <ul>    
       <li> <a href="https://support.insomnia.rest/article/23-installation#ubuntu">Insomnia</a> </li>    
       <li> <a href="https://www.electronjs.org/apps/postbird"> Postbird </a> </li>    
       <li> <a href="https://www.spotify.com/br/download/linux/"> Spotify </a> </li>    
