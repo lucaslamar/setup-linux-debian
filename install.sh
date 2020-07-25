@@ -51,9 +51,6 @@ sudo snap install slack --classic
 #instalando o insomnia
 sudo snap install insomnia
 
-#instalando o postbird
-sudo snap install postbird
-
 #instalando o Spotify
 sudo snap install spotify
 
