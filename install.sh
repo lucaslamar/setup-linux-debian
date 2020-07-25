@@ -81,10 +81,10 @@ sudo add-apt-repository ppa:peek-developers/stable -y
 sudo apt update
 sudo apt install peek
 
-eco 'instalando o dbeaver'
-wget -c https://dbeaver.io/files/6.0.0/dbeaver-ce_6.0.0_amd64.deb
-sudo dpkg -i dbeaver-ce_6.0.0_amd64.deb
-sudo apt-get install -f
+# eco 'instalando o dbeaver'
+# wget -c https://dbeaver.io/files/6.0.0/dbeaver-ce_6.0.0_amd64.deb
+# sudo dpkg -i dbeaver-ce_6.0.0_amd64.deb
+# sudo apt-get install -f
 
 #instalando o docker
 curl -fsSL https://get.docker.com -o get-docker.sh
