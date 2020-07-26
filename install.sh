@@ -25,7 +25,7 @@ sudo apt install vim -y
 echo "-----------------------------------------------"
 
 #tela de interação para a escolha dos programas a serem instalados
-whiptail --checklist --separate-output "Which programs do you want to install? <space> for checking, <tab> for ok and cancel options and press <enter> for your desired action" 15 80 5\
+whiptail --checklist --separate-output "Uncheck the programs you don't want to install <space> for checking/unchecking, <tab> for ok and cancel options and press <enter> for your desired action" 15 80 5\
                discord "For voicechatting" on \
                flameshot "Get some good screenshots" on \
                reactotron "React debugger" on \
@@ -163,6 +163,6 @@ sudo apt update && sudo apt dist-upgrade -y
 sudo apt install -f -y
 echo "Instalações terminadas com sucesso! Divirta-se"
 echo "Seu computador será reiniciado em instantes"
-#sleep 3s
-#sudo reboot
+sleep 3s
+sudo reboot
 
