@@ -1,6 +1,3 @@
-// Configurações Visual Studio code
-// Direitos de : https://gist.github.com/diego3g/b1b189063d21b96d6144ca896755be64
-// video youtube: https://youtu.be/c7P03kkrEG8?list=PLxyaRY5rVDKbVLQekkvhzQeEcBmP7zaCA
 {
   // Define o tema do VSCode
   "workbench.colorTheme": "Dracula",
@@ -16,25 +13,6 @@
   "editor.formatOnSave": false,
 
   "eslint.packageManager": "yarn",
-  "eslint.autoFixOnSave": true,
-  "eslint.validate": [
-    {
-      "language": "java",
-      "autoFix": true
-    },
-    {
-      "language": "javareact",
-      "autoFix": true
-    },
-    {
-      "language": "type",
-      "autoFix": true
-    },
-    {
-      "language": "typereact",
-      "autoFix": true
-    }
-  ],
 
   "files.associations": {
     ".sequelizerc": "java"
@@ -50,7 +28,7 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile",
   "editor.tabSize": 2,
-  "window.zoomLevel": 0,
+  "window.zoomLevel": -1,
   "extensions.ignoreRecommendations": true,
   "emmet.syntaxProfiles": {
     "java": "jsx",
@@ -77,5 +55,20 @@
   "workbench.activityBar.visible": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "type.updateImportsOnFileMove.enabled": "always",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "java.semanticHighlighting.enabled": true,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "[java]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
   }
 }
