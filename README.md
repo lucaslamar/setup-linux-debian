@@ -72,3 +72,7 @@ Depois de clonar repositorio e entrar na pasta
 
 - Run **`chmod +x ./install.sh`**;
 - Run **`./install.sh`**;
+
+## Observações
+
+- **Snapd** **não está funcionando** na versão 20 do **Linux Mint** - Atualizado em **26/07/2020**
