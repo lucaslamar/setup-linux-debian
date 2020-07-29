@@ -22,6 +22,7 @@
     <li> <a href="https://code.visualstudio.com/"> Vscode </a></li>
     <li> <a href="https://flameshot.js.org/#/">Flameshot</a></li>
     <li> <a href="https://www.docker.com/get-started"> Docker </a> </li>
+    <li> <a href="https://docs.docker.com/compose/"> Docker Compose </a> </li>
     <li> <a href="https://dbeaver.io/">DBeaver</a></li>
     <li> <a href="https://github.com/nvm-sh/nvm"> Nvm </a></li>
     <li> <a href="https://yarnpkg.com/en/docs/getting-started">Yarn</a> </li>
