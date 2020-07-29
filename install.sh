@@ -102,9 +102,9 @@ while read -r line; do
       canta-theme)
          sudo apt-get install gtk2-engines-murrine gtk2-engines-pixbuf -y
          git clone https://github.com/vinceliuice/Canta-theme.git
-         sudo add-apt-repository ppa:numix/ppa
+         sudo add-apt-repository ppa:numix/ppa -y
          sudo apt update
-         sudo apt install numix-icon-theme-circle -y
+         sudo apt install numix-icon-theme -y
          cd Canta-theme/
          ./install.sh -i
          cd -
