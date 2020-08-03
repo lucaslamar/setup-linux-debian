@@ -6,7 +6,7 @@
 # setup-linux-debian
 > Script linux base para instalar programas temas e icones essencias para programação, com maior foco em: Node.js, React.JS e React Native.
 
-![Setup Linux](img/setup.png)
+![Setup Linux](assets/demo.gif)
 
  ## Programas Básicos <Obrigatórios>
 
