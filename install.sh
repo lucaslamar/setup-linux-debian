@@ -78,16 +78,16 @@ while read -r line; do
          sudo apt install -f -y
          ;;
       slack)
-         sudo snap install slack --classic
+         sudo snap install slack --classic </dev/tty
          ;;
       insomnia)
-         sudo snap install insomnia
+         sudo snap install insomnia </dev/tty
          ;;
       postman)
-         sudo snap install postman
+         sudo snap install postman </dev/tty
          ;;
       spotify)
-         sudo snap install spotify
+         sudo snap install spotify </dev/tty
          ;;
       nodejs-lts)
          wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
