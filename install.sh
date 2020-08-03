@@ -131,17 +131,22 @@ while read -r line; do
       git-config)
          echo "What name do you want to use in GIT user.name?"
          echo "For example, mine will be \"Bruce Wayne\""
-         read git_config_user_name
+         read git_config_user_name </dev/tty
          git config --global user.name "$git_config_user_name"
-         clear 
          echo "What email do you want to use in GIT user.email?"
          echo "For example, mine will be \"bruce.wayne@wayneenterprises.com\""
-         read git_config_user_email
+         read git_config_user_email </dev/tty
          git config --global user.email $git_config_user_email
          echo "Generating a SSH Key"
-         ssh-keygen -t rsa -b 4096 -C $git_config_user_email
+         ssh-keygen -t rsa -b 4096 -C $git_config_user_email </dev/tty
          ssh-add ~/.ssh/id_rsa
+         sudo apt install xclip
+         clear
+         echo "Generated SSH:"
+         echo "-----------------------------------------------------"
          cat ~/.ssh/id_rsa.pub | xclip -selection clipboard
+         echo "-----------------------------------------------------"
+         sudo apt remove xclip
          ;;
    esac
 done < "$filename"
