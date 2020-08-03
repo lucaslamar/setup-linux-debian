@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img alt="Logo" title="Logo " src="img/linux.png" width="200px" />
+  <img alt="Logo" title="Logo " src="assets/linux.png" width="200px" />
 </h1>
 
 # setup-linux-debian
