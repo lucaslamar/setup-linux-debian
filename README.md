@@ -49,7 +49,7 @@
 
 
 
-## Extensões Vscode 
+## Dicas Extensões Vscode 
 <ul>
   <li>Color Highlight</li>
   <li>Docker</li>
@@ -69,10 +69,18 @@
 
 ## Executando Script
 
-Depois de clonar repositorio e entrar na pasta
+Depois de clonar ou baixar zip repositorio e entrar na pasta e execute os seguintes comandos:
 
 - Run **`chmod +x ./install.sh`**;
 - Run **`./install.sh`**;
+
+## Contribuir
+
+1. Faça o _fork_ do projeto (<https://github.com/lucaslamar/setup-linux-debian/fork>)
+2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
+3. Faça o _commit_ (`git commit -m '[FEAT] - Estrutura inicial do projeto'`)
+4. _Push_ (`git push origin feature/fooBar`)
+5. Crie um novo _Pull Request_
 
 ## Observações
 
