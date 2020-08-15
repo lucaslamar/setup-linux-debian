@@ -12,7 +12,7 @@
 
  <ul>
   <li><a href="https://www.vim.org/download.php">Vim</a></li>
-  <li><a href="https://curl.haxx.se/download.html"></a>Curl</a></li>
+  <li><a href="https://curl.haxx.se/download.html">Curl</a></a></li>
   <li><a href="https://git-scm.com/download/linux"> Git </a></li>
  </ul>
 
