@@ -4,19 +4,19 @@
 </h1>
 
 # setup-linux-debian
-> Script linux base para instalar programas temas e icones essencias para programação, com maior foco em: Node.js, React.JS e React Native.
+> Base linux script to install theme programs and essential programming icons, with a greater focus on: Node.js, React.JS and React Native.
 
 ![Setup Linux](assets/demo.gif)
 
- ## Programas Básicos <Obrigatórios>
+ ## Basic Programs <Mandatory>
 
  <ul>
-  <li>Vim</li>
-  <li>Curl</li>
+  <li><a href="https://www.vim.org/download.php">Vim</a></li>
+  <li href="https://curl.haxx.se/download.html"><a>Curl</a></li>
   <li> <a href="https://git-scm.com/download/linux"> Git </a></li>
  </ul>
 
- ## Programas Opcionais <Você pode escolher via Whiptail>
+## Optional Programs <You can choose via Whiptail>
 
 <ul>
     <li> <a href="https://code.visualstudio.com/"> Vscode </a></li>
@@ -40,7 +40,7 @@
     </li>
 </ul>
 
- ## Talvez você goste (NÃO está no script)
+ ## Maybe you like it (NOT in the script)
 <ul>
   <li><a href="https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/">ZSH</a></li>
   <li><a href="https://draculatheme.com/">Dracula Theme</a></li>
@@ -49,7 +49,7 @@
 
 
 
-## Dicas Extensões Vscode 
+## Vscode Extensions Tips 
 <ul>
   <li>Color Highlight</li>
   <li>Docker</li>
@@ -61,27 +61,26 @@
   <li>Live Share</li>
   <li>Material Icon Theme</li>
   <li>Rocketseat React Native</li>
-  <li>Rocketseat ReactJS</li>
+  <li>VS Code ES7 React/Redux/React-Native/JS snippets<li>
   <li>vscode-styled-components</li>
   <li>Project Manager</li>
 </ul>
 
 
-## Executando Script
+## Running Script
 
-Depois de clonar ou baixar zip repositorio e entrar na pasta e execute os seguintes comandos:
-
+After cloning or downloading zip repository and entering the folder and execute the following commands:
 - Run **`chmod +x ./install.sh`**;
 - Run **`./install.sh`**;
 
-## Contribuir
+## Contribute
 
-1. Faça o _fork_ do projeto (<https://github.com/lucaslamar/setup-linux-debian/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
-3. Faça o _commit_ (`git commit -m '[FEAT] - Estrutura inicial do projeto'`)
+1. Make the _fork_ of the project (<https://github.com/lucaslamar/setup-linux-debian/fork>)
+2. Create a _branch_ for your modification (`git checkout -b feature/fooBar`)
+3. Make _commit_ (`git commit -m '[FEAT] - Estrutura inicial do projeto'`)
 4. _Push_ (`git push origin feature/fooBar`)
-5. Crie um novo _Pull Request_
+5. Create a new _Pull Request_
 
-## Observações
+## Comments
 
-- **Snapd** **não está funcionando** na versão 20 do **Linux Mint** - Atualizado em **26/07/2020**
+- **Snapd** **is not working** in version 20 of **Linux Mint** - Checked on **07/26/2020**

@@ -1,5 +1,5 @@
 #!/bin/bash -i
-#atualizando os pacotes
+#updating packages
 #-----------------------------------------------------------------------
 { #try
     sudo apt update && sudo apt dist-upgrade -y
@@ -7,24 +7,24 @@
     echo Desculpe, não foi possível concluir a atualização dos pacotes. Resolve esse problema e então tente novamente!
     exit 0
 }
-#instalando os programas
+#installing the programs
 #-----------------------------------------------------------------------
-#instalando o git, caso não esteja instalado
-echo "Instalando os programas básicos:"
+#installing basic programs
+echo "Installing the basic programs:"
 echo "-----------------------------------------------"
 sudo apt install git -y
 
-#instalando o curl
+#installing curl
 sudo apt install curl -y 
 
-#instalando o snap
+#installing snap
 sudo apt install snapd -y
 
-#instalando o vim
+#installing vim
 sudo apt install vim -y
 echo "-----------------------------------------------"
 
-#tela de interação para a escolha dos programas a serem instalados
+#interaction screen for choosing the programs to be installed
 whiptail --checklist --separate-output "Uncheck the programs you don't want to install by pressing <space> for checking/unchecking, <tab> for ok and cancel options and press <enter> for your desired action" 15 80 5\
                discord "For voicechatting" on \
                flameshot "Get some good screenshots" on \
@@ -151,11 +151,11 @@ while read -r line; do
    esac
 done < "$filename"
 
-#atualizando todos os pacotes
+#updating all packages
 #-----------------------------------------------------------------------
 sudo apt update && sudo apt dist-upgrade -y
 sudo apt install -f -y
-echo "Instalações terminadas com sucesso! Divirta-se"
-echo "Seu computador será reiniciado em instantes"
-sleep 3s
+echo "Installations completed successfully! Have fun :D"
+echo "Your computer will restart in no time"
+sleep 5s
 sudo reboot
