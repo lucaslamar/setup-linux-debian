@@ -12,8 +12,8 @@
 
  <ul>
   <li><a href="https://www.vim.org/download.php">Vim</a></li>
-  <li href="https://curl.haxx.se/download.html"><a>Curl</a></li>
-  <li> <a href="https://git-scm.com/download/linux"> Git </a></li>
+  <li><a href="https://curl.haxx.se/download.html"><a>Curl</a></li>
+  <li><a href="https://git-scm.com/download/linux"> Git </a></li>
  </ul>
 
 ## Optional Programs <You can choose via Whiptail>
@@ -61,7 +61,7 @@
   <li>Live Share</li>
   <li>Material Icon Theme</li>
   <li>Rocketseat React Native</li>
-  <li>VS Code ES7 React/Redux/React-Native/JS snippets<li>
+  <li>VS Code ES7 React/Redux/React-Native/JS snippets</li>
   <li>vscode-styled-components</li>
   <li>Project Manager</li>
 </ul>
