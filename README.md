@@ -51,19 +51,20 @@
 
 ## Vscode Extensions Tips 
 <ul>
-  <li>Color Highlight</li>
-  <li>Docker</li>
-  <li>DotENV</li>
   <li>Dracula Official</li>
-  <li>EditorConfig for VS Code</li>
-  <li>GitLens — Git supercharged</li>
-  <li>Live Server</li>
+  <li>Color Highlight</li>
+  <li>Bracket Pair Colorizer</li>
+  <li>Material Icon Theme</li> 
+  <li>Live Server</li>    
   <li>Live Share</li>
-  <li>Material Icon Theme</li>
+  <li>DotENV</li>
+  <li>EditorConfig for VS Code</li>
+  <li>Project Manager</li>
+  <li>GitLens — Git supercharged</li>
+  <li>Docker</li>
   <li>Rocketseat React Native</li>
   <li>VS Code ES7 React/Redux/React-Native/JS snippets</li>
   <li>vscode-styled-components</li>
-  <li>Project Manager</li>
 </ul>
 
 
