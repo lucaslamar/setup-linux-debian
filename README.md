@@ -40,16 +40,17 @@
     </li>
 </ul>
 
- ## Maybe you like it (NOT in the script)
+ ## Maybe you like it <NOT in the script>
 <ul>
-  <li><a href="https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/">ZSH</a></li>
+  <li><a href="https://code.visualstudio.com/docs/editor/settings-sync">Settings Sync</a></li>
   <li><a href="https://draculatheme.com/">Dracula Theme</a></li>
   <li><a href="https://github.com/tonsky/FiraCode">Fira Code</a></li>
+  <li><a href="https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/">ZSH</a></li>
 </ul>
 
 
 
-## Vscode Extensions Tips 
+## Vscode Extensions Tips <Settings Sync>
 <ul>
   <li>Dracula Official</li>
   <li>Color Highlight</li>
@@ -66,7 +67,6 @@
   <li>VS Code ES7 React/Redux/React-Native/JS snippets</li>
   <li>vscode-styled-components</li>
 </ul>
-
 
 ## Running Script
 
