@@ -45,7 +45,7 @@
   <li><a href="https://code.visualstudio.com/docs/editor/settings-sync">Settings Sync</a></li>
   <li><a href="https://draculatheme.com/">Dracula Theme</a></li>
   <li><a href="https://github.com/tonsky/FiraCode">Fira Code</a></li>
-  <li><a href="https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/">ZSH</a></li>
+  <li><a href="https://www.notion.so/Configurando-o-Terminal-c3dcaf4c54a241228288b513c4e936b4">ZSH</a></li>
 </ul>
 
 
