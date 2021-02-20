@@ -36,6 +36,7 @@
       <li> <a href="https://postman.com">Postman</a> </li>    
       <li> <a href="https://www.spotify.com/br/download/linux/"> Spotify </a> </li>    
       <li> <a href="https://slack.com/intl/pt-br/downloads/linux"> Slack </a> </li>    
+      <li> <a href="https://snapcraft.io/teams"> Microsoft Teams </a> </li>    
     </ul>
     </li>
 </ul>
