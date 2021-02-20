@@ -40,6 +40,7 @@ whiptail --checklist --separate-output "Uncheck the programs you don't want to i
                canta-theme "Custom theme for Linux" on \
                peek "Record your screen" on \
                dbeaver "Connect and explore different databases" on \
+               microsoft-teams "Microsoft's business communication platform" on \
                docker "For virtualization" on \
                docker-composer "Orchestrate your Docker containers" on \
                git-config "configure your git with a SSH key" on 2>programchoice.txt
@@ -119,6 +120,9 @@ while read -r line; do
          sudo dpkg -i dbeaver-ce_6.0.0_amd64.deb
          sudo apt-get install -f
          ;;
+      microsoft-teams)
+         sudo snap install teams </dev/tty
+         ;;
       docker)
          curl -fsSL https://get.docker.com -o get-docker.sh
          sudo sh get-docker.sh
@@ -156,6 +160,13 @@ done < "$filename"
 sudo apt update && sudo apt dist-upgrade -y
 sudo apt install -f -y
 echo "Installations completed successfully! Have fun :D"
-echo "Your computer will restart in no time"
-sleep 5s
-sudo reboot
+echo "Your computer will restart in 5 seconds"
+echo "Do you want to restart your computer? <1 for yes, 0 for no>"
+read restart </dev/tty
+if [[ $restart -eq 1 ]]
+then
+   echo "Your computer is being restarted"
+   sleep 5s
+   sudo reboot
+fi
+echo "See you next time!"
