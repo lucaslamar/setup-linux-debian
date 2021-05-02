@@ -42,7 +42,7 @@
     </ul>
 </ul>
 
- ## Maybe you like it <NOT in the script>
+ ## Maybe you will like it <NOT in the script>
 <ul>
   <li><a href="https://code.visualstudio.com/docs/editor/settings-sync">Settings Sync</a></li>
   <li><a href="https://draculatheme.com/">Dracula Theme</a></li>
