@@ -1,3 +1,5 @@
+  <!-- Futuras Extensões -->
+  <!-- <li><a href=""></li> -->
 
 <h1 align="center">
   <img alt="Logo" title="Logo " src="assets/linux.png" width="200px" />
@@ -38,7 +40,6 @@
       <li> <a href="https://slack.com/intl/pt-br/downloads/linux"> Slack </a> </li>    
       <li> <a href="https://snapcraft.io/teams"> Microsoft Teams </a> </li>    
     </ul>
-    </li>
 </ul>
 
  ## Maybe you like it <NOT in the script>
@@ -46,6 +47,7 @@
   <li><a href="https://code.visualstudio.com/docs/editor/settings-sync">Settings Sync</a></li>
   <li><a href="https://draculatheme.com/">Dracula Theme</a></li>
   <li><a href="https://github.com/tonsky/FiraCode">Fira Code</a></li>
+  <li><a href="https://gist.github.com/diego3g/b1b189063d21b96d6144ca896755be64">Vscode settings.json</li>
   <li><a href="https://www.notion.so/Configurando-o-Terminal-c3dcaf4c54a241228288b513c4e936b4">ZSH</a></li>
 </ul>
 
@@ -53,20 +55,25 @@
 
 ## Vscode Extensions Tips <Settings Sync>
 <ul>
-  <li>Dracula Official</li>
-  <li>Color Highlight</li>
-  <li>Bracket Pair Colorizer</li>
-  <li>Material Icon Theme</li> 
-  <li>Live Server</li>    
-  <li>Live Share</li>
-  <li>DotENV</li>
-  <li>EditorConfig for VS Code</li>
-  <li>Project Manager</li>
-  <li>GitLens — Git supercharged</li>
-  <li>Docker</li>
-  <li>Rocketseat React Native</li>
-  <li>VS Code ES7 React/Redux/React-Native/JS snippets</li>
-  <li>vscode-styled-components</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula">Dracula Official</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight">Color Highlight</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer">Bracket Pair Colorizer</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</li> 
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</li>    
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare">Live Share</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv">DotENV</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig">EditorConfig for VS Code</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager">Project Manager</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">GitLens — Git supercharged</li>
+  <li><a href="">Docker</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier - Code formatter</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">Eslint</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative">Rocketseat React Native</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactJS">Rocketseat ReactJs</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets">VS Code ES7 React/Redux/React-Native/JS snippets</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components">vscode-styled-components</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker">Docker</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree">Todo Tree</li>
 </ul>
 
 ## Running Script
@@ -86,3 +93,4 @@ After cloning or downloading zip repository and entering the folder and execute 
 ## Comments
 
 - **Snapd** **is not working** in version 20 of **Linux Mint** - Checked on **07/26/2020**
+- **like it**, leave a **star**!
