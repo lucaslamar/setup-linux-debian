@@ -84,7 +84,7 @@ After cloning or downloading zip repository and entering the folder and execute 
 
 ## Contribute
 
-1. Make the _fork_ of the project (<https://github.com/lucaslamar/setup-linux-debian/fork>)
+1. Make the _fork_ of the project. (<https://github.com/lucaslamar/setup-linux-debian/fork>)
 2. Create a _branch_ for your modification (`git checkout -b feature/fooBar`)
 3. Make _commit_ (`git commit -m '[FEAT] - Estrutura inicial do projeto'`)
 4. _Push_ (`git push origin feature/fooBar`)
