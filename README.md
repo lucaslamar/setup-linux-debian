@@ -299,7 +299,7 @@
   <li>
     <a 
     target="_blank"
-    href="https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree">Todo Tree</a>
+    href="https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree">Todo Tree
     </a>
     </li>
 </ul>
