@@ -22,6 +22,7 @@
 
 <ul>
     <li> <a href="https://code.visualstudio.com/"> Vscode </a></li>
+    <li> <a href="https://www.google.com/intl/pt-BR/chrome/"> Google Chrome</a></li>
     <li> <a href="https://flameshot.org/getting-started/">Flameshot</a></li>
     <li> <a href="https://www.docker.com/get-started"> Docker </a> </li>
     <li> <a href="https://docs.docker.com/compose/"> Docker Compose </a> </li>
