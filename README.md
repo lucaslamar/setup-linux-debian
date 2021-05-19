@@ -41,6 +41,12 @@
 ## Optional Programs <You can choose via Whiptail>
 
 <ul>
+    <li>
+    <a 
+    target="_blank"
+    href="https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh"> SSH Key
+    </a>
+    </li>
     <li> 
       <a 
       target="_blank"
@@ -160,6 +166,12 @@
     href="https://code.visualstudio.com/docs/editor/settings-sync">Settings Sync
     </a>
     </li>
+    <li>
+    <a 
+    target="_blank"
+    href="https://gist.github.com/diego3g/b1b189063d21b96d6144ca896755be64">Vscode settings.json
+    </a>
+    </li>
   <li>
     <a 
     target="_blank"
@@ -170,12 +182,6 @@
     <a 
     target="_blank"
     href="https://github.com/tonsky/FiraCode">Fira Code
-    </a>
-    </li>
-  <li>
-    <a 
-    target="_blank"
-    href="https://gist.github.com/diego3g/b1b189063d21b96d6144ca896755be64">Vscode settings.json
     </a>
     </li>
   <li>
