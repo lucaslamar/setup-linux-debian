@@ -43,6 +43,7 @@ whiptail --checklist --separate-output "Uncheck the programs you don't want to i
                microsoft-teams "Microsoft's business communication platform" on \
                docker "For virtualization" on \
                docker-composer "Orchestrate your Docker containers" on \
+	       bottom "A custom graphical process/system monitor" on \
                git-config "configure your git with a SSH key" on 2>programchoice.txt
 
 
@@ -132,6 +133,10 @@ while read -r line; do
          sudo curl -L "https://github.com/docker/compose/releases/download/1.26.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
          sudo chmod +x /usr/local/bin/docker-compose
          ;;
+      bottom)
+	 curl -LO https://github.com/ClementTsang/bottom/releases/download/0.6.4/bottom_0.6.4_amd64.deb
+	 sudo dpkg -i bottom_0.6.4_amd64.deb
+	 ;;
       git-config)
          echo "What name do you want to use in GIT user.name?"
          echo "For example, mine will be \"Bruce Wayne\""

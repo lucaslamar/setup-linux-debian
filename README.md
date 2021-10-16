@@ -154,7 +154,13 @@
         target="_blank"
         href="https://snapcraft.io/teams"> Microsoft Teams 
         </a> 
-        </li>    
+        </li>
+	<li>
+        <a
+        target="_blank"
+        href="https://github.com/ClementTsang/bottom"> Bottom
+        </a>
+        </li>
     </ul>
 </ul>
 
