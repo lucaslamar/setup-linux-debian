@@ -161,14 +161,12 @@
         href="https://github.com/ClementTsang/bottom"> Bottom
         </a>
         </li>
-	<li>
+      <li>
         <a
         target="_blank"
         href="https://ulauncher.io/"> ulauncher
         </a>
         </li>
-
-    </ul>
 </ul>
 
  ## Maybe you will like it <NOT in the script>
