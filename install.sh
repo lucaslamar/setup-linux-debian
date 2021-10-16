@@ -4,7 +4,7 @@
 { #try
     sudo apt update && sudo apt dist-upgrade -y
 } || { #catch
-    echo Desculpe, não foi possível concluir a atualização dos pacotes. Resolve esse problema e então tente novamente!
+    echo Sorry, we could not update update the packages in your system. Solve this issue and try again!
     exit 0
 }
 #installing the programs
