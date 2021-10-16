@@ -44,6 +44,7 @@ whiptail --checklist --separate-output "Uncheck the programs you don't want to i
                docker "For virtualization" on \
                docker-composer "Orchestrate your Docker containers" on \
 	       bottom "A custom graphical process/system monitor" on \
+	       ulauncher "A launcher for Linux" on \
                git-config "configure your git with a SSH key" on 2>programchoice.txt
 
 
@@ -136,6 +137,11 @@ while read -r line; do
       bottom)
 	 curl -LO https://github.com/ClementTsang/bottom/releases/download/0.6.4/bottom_0.6.4_amd64.deb
 	 sudo dpkg -i bottom_0.6.4_amd64.deb
+	 ;;
+      ulauncher)
+	 sudo add-apt-repository ppa:agornostal/ulauncher -y
+	 sudo apt update
+	 sudo apt install ulauncher
 	 ;;
       git-config)
          echo "What name do you want to use in GIT user.name?"
