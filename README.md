@@ -119,8 +119,7 @@
       href="https://github.com/vinceliuice/Canta-theme/">Canta Theme 
       </a> 
       </li>
-    <li>
-    	<li>
+      <li>
         <a
         target="_blank"
         href="https://github.com/ClementTsang/bottom"> Bottom
@@ -132,6 +131,7 @@
         href="https://ulauncher.io/"> ulauncher
         </a>
         </li>
+    <li>
       <a 
       target="_blank"
       href="https://snapcraft.io/store"> Snapd 
