@@ -120,6 +120,18 @@
       </a> 
       </li>
     <li>
+    	<li>
+        <a
+        target="_blank"
+        href="https://github.com/ClementTsang/bottom"> Bottom
+        </a>
+        </li>
+      <li>
+        <a
+        target="_blank"
+        href="https://ulauncher.io/"> ulauncher
+        </a>
+        </li>
       <a 
       target="_blank"
       href="https://snapcraft.io/store"> Snapd 
@@ -154,18 +166,6 @@
         target="_blank"
         href="https://snapcraft.io/teams"> Microsoft Teams 
         </a> 
-        </li>
-	<li>
-        <a
-        target="_blank"
-        href="https://github.com/ClementTsang/bottom"> Bottom
-        </a>
-        </li>
-      <li>
-        <a
-        target="_blank"
-        href="https://ulauncher.io/"> ulauncher
-        </a>
         </li>
 </ul>
 
