@@ -115,7 +115,7 @@ while read -r line; do
       peek)
          sudo add-apt-repository ppa:peek-developers/stable -y
          sudo apt update
-         sudo apt install peek
+         sudo apt install peek -y
          ;;
       dbeaver)
          wget -c https://dbeaver.io/files/6.0.0/dbeaver-ce_6.0.0_amd64.deb
@@ -141,7 +141,7 @@ while read -r line; do
       ulauncher)
 	 sudo add-apt-repository ppa:agornostal/ulauncher -y
 	 sudo apt update
-	 sudo apt install ulauncher
+	 sudo apt install ulauncher -y
 	 ;;
       git-config)
          echo "What name do you want to use in GIT user.name?"
@@ -176,7 +176,7 @@ echo "Do you want to restart your computer? <1 for yes, 0 for no>"
 read restart </dev/tty
 if [[ $restart -eq 1 ]]
 then
-   echo "Your computer is being restarted"
+   echo "Your computer is restarting"
    sleep 5s
    sudo reboot
 fi
