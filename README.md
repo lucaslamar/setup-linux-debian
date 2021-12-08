@@ -186,12 +186,6 @@
   <li>
     <a 
     target="_blank"
-    href="https://draculatheme.com/">Dracula Theme
-    </a>
-    </li>
-  <li>
-    <a 
-    target="_blank"
     href="https://github.com/tonsky/FiraCode">Fira Code
     </a>
     </li>
