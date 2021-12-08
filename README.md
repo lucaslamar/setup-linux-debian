@@ -198,7 +198,7 @@
   <li>
     <a 
     target="_blank"
-    href="https://www.notion.so/Configurando-o-Terminal-c3dcaf4c54a241228288b513c4e936b4">ZSH
+    href="https://www.notion.so/Configurando-o-Terminal-c3dcaf4c54a241228288b513c4e936b4"> Estilizando terminal
     </a>
     </li>
 </ul>
