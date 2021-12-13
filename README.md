@@ -192,7 +192,7 @@
   <li>
     <a 
     target="_blank"
-    href="https://www.notion.so/Configurando-o-Terminal-c3dcaf4c54a241228288b513c4e936b4"> Estilizando terminal
+    href="https://www.notion.so/Configurando-o-Terminal-5f33f75765404f6d8910c808514961f2"> style terminal
     </a>
     </li>
 </ul>
