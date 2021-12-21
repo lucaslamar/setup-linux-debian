@@ -192,7 +192,7 @@
   <li>
     <a 
     target="_blank"
-    href="https://best-carob-b6a.notion.site/Setup-2d58eb0344bf4bebb2801dacb9b9a47b"> style terminal
+    href="https://best-carob-b6a.notion.site/Configurando-o-Terminal-e015551c60554dedac5962193268c3a6"> style terminal
     </a>
     </li>
 </ul>
